@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nutri-Mental</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI"></string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I (Moderately Obese)</string>
+    <string name="obese_class_ii">Obese Class II (Severealy Obese)</string>
+    <string name="obese_class_iii">Obese Class III (Very Severely Obese)</string>
+
+</resources>
